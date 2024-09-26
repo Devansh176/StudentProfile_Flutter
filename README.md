@@ -1,6 +1,6 @@
 # student_profile
 
-A new Flutter project.
+This is a new Flutter project.
 
 ## Getting Started
 
